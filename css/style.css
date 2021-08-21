@@ -671,7 +671,7 @@ ul{
   }
 /*****************************************************************************************************/
 .app-download{
-	background-image: url('../img/app-screenshots/fitness.png');
+	background-image: url('../fitness.png');
 	background-position: center top;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
